@@ -1,2 +1,2 @@
 # Testing
-This is a good test.
+This is a simple test.
